@@ -1,0 +1,5 @@
+{
+  "name": "StyleBlend AI",
+  "description": "Smart Product Visual Adaptor that blends a product image with a reference style.",
+  "requestFramePermissions": []
+}
